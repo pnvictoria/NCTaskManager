@@ -1,0 +1,64 @@
+[
+  {
+    "title": "{P}",
+    "startTime": {
+      "date": {
+        "year": 2020,
+        "month": 2,
+        "day": 8
+      },
+      "time": {
+        "hour": 21,
+        "minute": 22,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "endTime": {
+      "date": {
+        "year": 2020,
+        "month": 5,
+        "day": 29
+      },
+      "time": {
+        "hour": 9,
+        "minute": 9,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "repeatInterval": 120,
+    "active": true
+  },
+  {
+    "title": "{A}",
+    "startTime": {
+      "date": {
+        "year": 2020,
+        "month": 2,
+        "day": 8
+      },
+      "time": {
+        "hour": 21,
+        "minute": 22,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "endTime": {
+      "date": {
+        "year": 2020,
+        "month": 6,
+        "day": 6
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "repeatInterval": 180,
+    "active": true
+  }
+]
